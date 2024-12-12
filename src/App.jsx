@@ -39,7 +39,7 @@ function App() {
         <ul><CoreConcepts {...CORE_CONCEPTS[0]}/>
           <CoreConcepts {...CORE_CONCEPTS[1]}/>
           <CoreConcepts {...CORE_CONCEPTS[2]}/>
-          <CoreConcepts {...CORE_CONCEPTS[3]}/>
+          <CoreConcepts {...CORE_CONCEPTS[3]}/> 
         </ul>
         </section>
       </main>
